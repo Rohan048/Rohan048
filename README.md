@@ -35,11 +35,20 @@
 |---------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | Personalized Drug Recommendation System | [View](https://github.com/Rohan048/Personalized-Drug-Recommendation-using-Ensemble-Machine-Learning-A-Predictive-Analytics-Approach-) | Personalized Drug Recommendation using Ensemble Machine Learning: A Predictive Analytics Approach 
 
+
+## Data Analysis Project
+
+| Title           | Link                                                                 | Description                                                  |
+|---------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Customer Sales Analysis Dashboard | [View](https://github.com/Rohan048/Customer-Sales-Analysis-Dashboard) | Customer Sales Analysis Dashboard Full Project (All sheets & Dashboards Available) |
+| ODI Match Analysis Dashboard | [View](https://github.com/Rohan048/ODI-Match-Analysis-Dashboard) | ODI Match Analysis Dashboard Full Project (All sheets & Dashboards Available)
+
+
 ## Web Development Project
 |  Title           | Link                                                                 |  Description                                                  |
 |---------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------|
 |Restaurent Webapp | [View](https://github.com/Rohan048/WebDevlopment-Restaurent-Project-Built-in-3rdSemester) | This is a **static restaurant website** built using **HTML and CSS** as part of my **3rd semester Web Development project**.
-| Personal Portfolio | [View](https://github.com/Rohan048/Personal-Portfolio-Website) | This is a **personal portfolio website** created using **HTML, CSS, and JavaScript**.It showcases my profile, skills, resume, and provides a contact form for visitors. | 
+| Personal Portfolio | [View](https://github.com/Rohan048/Personal-Portfolio-Website) | This is my **personal portfolio website** created using **HTML, CSS, and JavaScript**.It showcases my profile, skills, resume, and provides a contact form for visitors. | 
 
 
 ## Java Programming
