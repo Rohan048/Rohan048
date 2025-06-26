@@ -21,13 +21,14 @@
 | Rock-Paper-Scissors-Game| [View](https://github.com/Rohan048/Rock-Paper-Scissors-Game?tab=readme-ov-file) | A fun and interactive Rock Paper Scissors game built with Python and Streamlit. Play against the computer and enjoy a clean, simple UI with score tracking.           |
 
 
-# **Machine Learning Projects**
+# **Machine Learning & AI Projects**
 
 | Title           | Link                                                                 | Description                                                  |
 |---------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | Movie Recommendation System      | [View](https://github.com/Rohan048/Movie-Recommendation-System)        | A web app built with Python and Streamlit that recommends movies similar to your choice. It uses machine learning techniques and the TMDB API to fetch movie posters and display intelligent suggestions.       |
 | Analyzing Olympic History with Python & Streamlit | [View](https://github.com/Rohan048/OlympicsDataset-Project-App) | This project is a Streamlit web app that visualizes the Olympics dataset, allowing users to explore medal statistics across countries, seasons, and years. The dashboard provides interactive views including Medal Tallies, Country-wise analysis, and Year-wise performance trends. 
 | Mindmate-Your Mental Health Buddy | [View](https://mindmate-your-mental-health-buddy.streamlit.app/)  | MindMate is a simple yet powerful mental health companion web app built using Python and Streamlit .
+| GyaniBaba-Your AI Agent  | [View](https://github.com/Rohan048/GyaniBaba-Your-AI-Agent)   | **GyaniBaba** is a smart AI-powered research assistant built with [Streamlit](https://streamlit.io/), [LangChain](https://www.langchain.com/), and OpenAI's GPT-4o-mini model. It can search the web, answer your queries in simple markdown, and help you stay updated with current information using the Tavily Search API.
 
 # **Research Papers**
 
