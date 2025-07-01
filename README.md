@@ -41,6 +41,7 @@
 
 | Title           | Link                                                                 | Description                                                  |
 |---------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Predicting the Hubble Parameter and the Age of the Universe | [View](https://github.com/Rohan048/India-Space-Academy-Internship) | This project estimates the Hubble Constant (H₀) and the age of the universe using Type Ia Supernova data. It was part of the India Space Academy's Astronomy & Astrophysics Summer School 2025.
 | Customer Sales Analysis Dashboard | [View](https://github.com/Rohan048/Customer-Sales-Analysis-Dashboard) | Customer Sales Analysis Dashboard Full Project (All sheets & Dashboards Available) |
 | ODI Match Analysis Dashboard | [View](https://github.com/Rohan048/ODI-Match-Analysis-Dashboard) | ODI Match Analysis Dashboard Full Project (All sheets & Dashboards Available)
 
