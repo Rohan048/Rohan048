@@ -43,7 +43,8 @@
 |---------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | Predicting the Hubble Parameter and the Age of the Universe | [View](https://github.com/Rohan048/India-Space-Academy-Internship) | This project estimates the Hubble Constant (H₀) and the age of the universe using Type Ia Supernova data. It was part of the India Space Academy's Astronomy & Astrophysics Summer School 2025.
 | Customer Sales Analysis Dashboard | [View](https://github.com/Rohan048/Customer-Sales-Analysis-Dashboard) | Customer Sales Analysis Dashboard Full Project (All sheets & Dashboards Available) |
-| ODI Match Analysis Dashboard | [View](https://github.com/Rohan048/ODI-Match-Analysis-Dashboard) | ODI Match Analysis Dashboard Full Project (All sheets & Dashboards Available)
+| ODI Match Analysis Dashboard | [View](https://github.com/Rohan048/ODI-Match-Analysis-Dashboard) | ODI Match Analysis Dashboard Full Project (All sheets & Dashboards Available) |
+| Auto Feature Engineering Tool | [View](https://github.com/Rohan048/Auto-Feature-Engineering-Tool/tree/master) | A simple and interactive tool that lets you upload a dataset, view its basic details, select a target column, apply feature selection methods, choose top features, and generate a new dataset with only the selected features and target column. |
 
 
 # **Web Development Project**
