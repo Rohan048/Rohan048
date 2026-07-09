@@ -34,7 +34,7 @@
 
 | Title           | Link                                                                 | Description                                                  |
 |---------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| Personalized Drug Recommendation System | [View](https://github.com/Rohan048/Personalized-Drug-Recommendation-using-Ensemble-Machine-Learning-A-Predictive-Analytics-Approach-) | Personalized Drug Recommendation using Ensemble Machine Learning: A Predictive Analytics Approach 
+| Personalized Drug Recommendation System | [View](https://github.com/Rohan048/Personalized-Drug-Recommendation-using-Ensemble-Machine-Learning-A-Predictive-Analytics-Approach-) / [Paper](https://ieeexplore.ieee.org/document/11281258)| Personalized Drug Recommendation using Ensemble Machine Learning: A Predictive Analytics Approach 
 
 
 # Data Analysis Project
