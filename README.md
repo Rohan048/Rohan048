@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer and Python Developer passionate about
+I am a Software Engineer and Python AI Developer passionate about
 building practical software projects and learning new technologies.
 
-I enjoy working with Python, Backend Development, APIs, AI/ML,
-Data Analysis and Open Source projects.
+I enjoy working with Python, Backend Development, APIs, AI/ML
+and Open Source projects.
 
 I also conduct online technology classes and share useful
 learning resources, projects and practical coding knowledge
