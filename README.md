@@ -4,8 +4,7 @@
 🤖 Exploring AI, Machine Learning & Backend Development  
 🚀 Building Projects & Contributing to Open Source  
 👨‍🏫 Teaching Programming & Technology Online  
-📚 Sharing Resources for Students & Freshers  
-🇮🇳 India  
+📚 Sharing Resources for Students & Freshers    
 
 ---
 
