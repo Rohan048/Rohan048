@@ -1,3 +1,149 @@
+# Hi there! I'm Rohan Kumar Rai 👋
+
+💻 Software Engineer | Python AI Developer  
+🤖 Exploring AI, Machine Learning & Backend Development  
+🚀 Building Projects & Contributing to Open Source  
+👨‍🏫 Teaching Programming & Technology Online  
+📚 Sharing Resources for Students & Freshers  
+🇮🇳 India  
+
+---
+
+## 🚀 About Me
+
+I am a Software Engineer and Python Developer passionate about
+building practical software projects and learning new technologies.
+
+I enjoy working with Python, Backend Development, APIs, AI/ML,
+Data Analysis and Open Source projects.
+
+I also conduct online technology classes and share useful
+learning resources, projects and practical coding knowledge
+to help college students and freshers improve their skills.
+
+I believe in:
+
+💡 Learn → Build → Share → Grow
+
+---
+
+## 💻 Technical Skills
+
+### 🐍 Programming
+- Python
+- SQL
+- Object-Oriented Programming
+- Data Structures & Algorithms
+
+### 🌐 Backend Development
+- Django
+- Django REST Framework
+- FastAPI
+- REST APIs
+- HTTP & JSON
+- Authentication & JWT
+
+### 🗄️ Database
+- MySQL
+- PostgreSQL
+- SQL
+
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- NLP
+- Generative AI
+- LLMs
+- LangChain
+- RAG
+- AI Agents
+
+### 🛠️ Tools & Technologies
+- Git
+- GitHub
+- Postman
+- VS Code
+- Streamlit
+- Docker
+
+---
+
+## 🚀 What I Do
+
+💻 Build Software & Backend Projects
+
+🐍 Develop Python Applications
+
+🌐 Build REST APIs
+
+🤖 Explore AI & Machine Learning
+
+🚀 Work on Open Source Projects
+
+📚 Create Programming Tutorials
+
+👨‍🏫 Teach Technology Online
+
+🎓 Help Students & Freshers with Practical Learning
+
+---
+
+## 🎓 For Students & Freshers
+
+If you are a college student or a fresher interested in
+Software Development, Python, AI/ML or Backend Development,
+you may find useful resources here.
+
+I regularly share:
+
+🐍 Python Projects
+
+💻 Software Development Projects
+
+🤖 AI/ML Projects
+
+🌐 Backend & API Projects
+
+📚 Coding Tutorials
+
+🛠️ Open Source Projects
+
+💡 Learning Resources
+
+🎯 Interview Preparation Ideas
+
+🚀 New Technologies & Tools
+
+My goal is to make learning more practical through
+projects and real-world examples.
+
+---
+
+## 📚 Python Learning Resources
+
+I also maintain repositories containing Python learning
+materials, tutorials, practice programs and examples.
+
+These resources are useful for:
+
+🎓 College Students
+
+👨‍💻 Beginners
+
+🌱 Freshers
+
+🐍 Python Learners
+
+Anyone starting their programming journey is welcome
+to explore and learn from these repositories.
+
+---
+
+## 📌 Featured Projects
+
 # **Python Programming Tutorial**
 |  Title                     |  Link                                                           | Description              |
 |---------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
