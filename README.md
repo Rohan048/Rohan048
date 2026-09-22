@@ -1,6 +1,6 @@
 # Hi there! I'm Rohan Kumar Rai 👋
 
-💻 Software Engineer | Python AI Developer  
+💻 Software Engineer | Python AI Engineer  
 🤖 Exploring AI, Machine Learning & Backend Development  
 🚀 Building Projects & Contributing to Open Source  
 👨‍🏫 Teaching Programming & Technology Online  
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer and Python AI Developer passionate about
+I am a Software Engineer and Python AI Engineer passionate about
 building practical software projects and learning new technologies.
 
 I enjoy working with Python, Backend Development, APIs, AI/ML
